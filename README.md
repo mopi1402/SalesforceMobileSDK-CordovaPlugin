@@ -14,8 +14,19 @@ npm install cordova -g
 cordova create TestApp
 cd TestApp
 cordova plugin add https://github.com/mopi1402/SalesforceMobileSDK-CordovaPlugin
-cordova platform add android@5.0.0
 cordova platform add ios@4.2.0
+cordova prepare
+</pre>
+
+For Ionic
+---------
+
+<pre>
+npm install -g ionic
+ionic start MyIonicApp salesforce
+cd MyIonicApp
+cordova platform add ios@4.2.0
+cordova plugin add https://github.com/mopi1402/SalesforceMobileSDK-CordovaPlugin
 cordova prepare
 </pre>
 
