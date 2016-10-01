@@ -30,4 +30,8 @@ cordova plugin add https://github.com/mopi1402/SalesforceMobileSDK-CordovaPlugin
 cordova prepare
 </pre>
 
+more information [here](https://trailhead.salesforce.com/en/project/mobile-sdk-hybrid-apps/mobilesdk-hybrid-apps-04)
+
+
+
 For more information, check out [Salesforce Mobile SDK Development Guide](https://github.com/forcedotcom/SalesforceMobileSDK-Shared/blob/master/doc/mobile_sdk.pdf?raw=true)
